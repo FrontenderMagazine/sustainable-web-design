@@ -18,7 +18,7 @@ HUMVEE sites where we could be just as well served by slender hybrids or, better
 yet, bicycles.
 
 The good news is that we have several methods for fixing obese websites and
-simultaneously attacking our industry’s carbon footprin-ethods that 
+simultaneously attacking our industry’s carbon footprint — methods that 
 conveniently dovetail with good business practice: mobile-ready design demands a
 thoughtful and efficient approach to page design, and increasingly sophisticated
 web ROI metrics are already driving businesses to pursue faster and lighter 
