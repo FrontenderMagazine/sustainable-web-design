@@ -60,7 +60,7 @@ That doesn’t take into account important factors like how much of the data
 center’s electricity comes from renewable or fossil fuels or end-user 
 electricity usage, both of which could significantly influence the total. But 
 these numbers do give us a framework for seeing the relationship between page 
-size and carbon footprin-nd make it clear that cutting gigabytes saves 
+size and carbon footprint - and make it clear that cutting gigabytes saves 
 CO<sub>2</sub>.
 
 The first place to start trimming? In our designs. 
@@ -111,7 +111,7 @@ adding  up to hundreds of kilobytes. The [value of carousels is debatable][24]
 anyway; if you need to make a metrics-driven case for reduction or replacement, 
 take the [Brad Frost Carousel Challenge][25]. Other candidates for reappraisal 
 include sharing buttons, embedded maps, auto-play video, Flash, ads, and 
-syndicated third-party content service-ll of which come with a hefty data 
+syndicated third-party content services - all of which come with a hefty data 
 overhead.
 
 **Visual design:** Images are the largest part of the footprint for most sites
@@ -137,7 +137,7 @@ reading “[Web Performance 101][32]”, or [Lara Swanson’s recent ALA article
 
 **Green hosting:** Even before you start minimizing your site’s carbon
 footprint through design and optimization, you could consider moving to a green 
-host. Many of these are powered by renewable energ-articularly in Iceland, 
+host. Many of these are powered by renewable energy - particularly in Iceland, 
 where data centers have opened to take advantage of cheap geothermal power. 
 Green hosting might not be for everyone yet (it can be more expensive, and 
 Iceland might be far from your customers), but more local [green hosts][34] are
@@ -172,6 +172,15 @@ potential to save [eight billion tons of CO<sub>2</sub> by 2020][39], more than
 counterbalancing the projected 1.4 billion ton 2020 internet footprint.
 
 For instance:
+
+* Teleconferencing has already reduced business travel by [30 percent][41].
+* Home sharing (like AirBnB) is [66 percent more efficient than staying at a 
+hotel][42].
+* Car sharing services are taking cars off the road—as many as [20 regular cars 
+per shared one][43], according to ZipCar.
+* [Meshing.it][44], the directory for the sharing economy, lists a further 8,000 
+startups, all focused on spreading ownership amongst communities, thus reducing 
+consumption.
 
 As we continue these shifts toward an increasingly online economy, though, 
 we’ll also soon be welcoming [five billion new users][40] to the internet. As 
@@ -226,3 +235,7 @@ wouldn’t we get started?
 [38]: http://www.ceres.org/bicep/climate-declaration
 [39]: http://www.smart2020.org/publications/
 [40]: http://www.cnn.com/2013/04/15/tech/web/eric-schmidt-internet
+[41]: http://www.slideshare.net/blake/why-cleanweb-will-beat-cleantech
+[42]: http://www.fastcoexist.com/1679964/whats-the-future-of-the-sharing-economy
+[43]: http://www.zipcar.com/is-it/greenbenefits
+[44]: http://meshing.it/
